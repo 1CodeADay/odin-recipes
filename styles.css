@@ -1,0 +1,52 @@
+
+html {
+    background-color: whitesmoke;
+}
+
+body {
+    font-family: "Courier New", "Lucida Console", Monaco;
+    background-color: #c2a3d1;
+    text-align: center;
+    width: 800px;
+    margin: 50px auto;
+    padding: 16px 32px;
+    box-shadow: 1px 1px 4px;
+
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    
+}
+
+ul {
+    list-style-type: none;
+}
+
+.one {
+    background-color: aliceblue;
+    margin:5px 200px;
+}
+
+.two { 
+    background-color: tomato;
+    margin:5px 200px;
+}
+
+.three {
+    background-color: yellowgreen;
+    margin:5px 200px;
+}
+
+p {
+    font-weight: bold;
+}
